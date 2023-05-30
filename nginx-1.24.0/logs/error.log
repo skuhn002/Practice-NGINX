@@ -1,0 +1,5 @@
+2023/05/30 15:49:30 [error] 22800#22868: *1 CreateFile() "D:\temp\scode2\Practice-NGINX\nginx-1.24.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/05/30 16:01:55 [emerg] 20108#6844: no "events" section in configuration
+2023/05/30 16:02:32 [error] 7488#9688: *1 directory index of "D:/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:3000"
+2023/05/30 16:02:32 [error] 7488#9688: *1 directory index of "D:/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:3000"
+2023/05/30 16:02:32 [error] 7488#9688: *1 CreateFile() "D:/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
